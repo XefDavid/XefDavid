@@ -1,5 +1,26 @@
-# 💫 Hi i´m David:
- I'm a recently graduated Full Stack developer from 4Geeks Academy, passionate about challenges and dedicated to continuous learning in the exhilarating world of programming.<br><br>With a solid 25-year career as a professional chef, I've honed skills such as discipline, organization, creativity, and unwavering passion. These attributes are crucial in my new journey as a developer, where I confront challenges daily with steadfast determination and perseverance.<br><br>I am eager to further my growth and knowledge in this dynamic field. I thrive on tackling new challenges and am prepared to collaborate on projects that foster professional development!<br><br> It´s time to learning!!!
+# David García Jorge
+
+Full Stack Developer · Vue.js · Python · TypeScript · ROS2 · Three.js
+
+From Michelin-starred kitchens to production software.
+The standards haven't changed. Only the stack has.
+
+---
+
+## What I build
+
+- ML-powered classification systems
+- Immersive 3D LiDAR data visualization
+- ROS2 robotics simulations for autonomous environments
+- Multilingual web platforms with AI integration
+
+## Stack
+
+Vue.js · Nuxt · Python · TypeScript · Three.js · ROS2 · Gazebo · Docker · PostgreSQL
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/davidgarciajorge)
 
 
 ## 🌐 Socials:
