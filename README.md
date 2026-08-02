@@ -1,3 +1,4 @@
+![banner](assets/banner.svg)
 
 # David García Jorge
 
