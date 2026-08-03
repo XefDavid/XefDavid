@@ -37,10 +37,9 @@ Certified AESA/EASA drone pilot — A1/A3 · A2 · STS.
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
